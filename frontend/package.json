@@ -10,9 +10,12 @@
     "tauri": "tauri"
   },
   "dependencies": {
+    "lucide-react": "^0.475.0",
     "next": "15.1.7",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "reactflow": "^11.11.4",
+    "shadcn-ui": "^0.9.4"
   },
   "devDependencies": {
     "@tauri-apps/cli": "^2.2.7",
